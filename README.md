@@ -1,3 +1,3 @@
 # task
 first task
-this is my first commirt
+this is my first commit
